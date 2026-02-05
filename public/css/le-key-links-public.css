@@ -1,0 +1,9 @@
+/* 基本样式 */
+.lekl-link {
+    text-decoration: underline;
+    transition: all 0.3s ease;
+}
+
+.lekl-link:hover {
+    text-decoration: none;
+} 
