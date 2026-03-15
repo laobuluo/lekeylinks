@@ -14,7 +14,7 @@ $options = get_option('le_key_links_settings', array(
 
 <div class="wrap">
     <h1>关键字链接设置</h1>
-    <p>WordPress内链关键字自动替换插件，设置关键字链接。<a href="https://www.lezaiyun.com/907.html" target="_blank">插件介绍</a>（关注公众号：<span style="color: red;">老蒋朋友圈</span>）</p>
+    <p>WordPress内链关键字自动替换插件，设置关键字链接。<a href="https://www.laojiang.me/7227.html" target="_blank">插件介绍</a>（关注公众号：<span style="color: red;">老蒋朋友圈</span>）</p>
 
     <?php if (isset($_GET['settings-updated'])): ?>
         <div class="notice notice-success is-dismissible">

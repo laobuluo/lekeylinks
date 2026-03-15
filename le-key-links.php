@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: LeKeyLinks
- * Plugin URI:  https://www.lezaiyun.com/907.html
+ * Plugin URI:  https://www.laojiang.me/7227.html
  * Description: WordPress内链关键字自动替换插件，可以自动替换文章中关键字为链接，支持中文和英文，支持优先级，支持最大替换次数。公众号：<span style="color: red;">老蒋朋友圈</span>
  * Version: 1.0.1
  * Author: 老蒋和他的小伙伴
- * Author URI: https://www.lezaiyun.com/
+ * Author URI: https://www.laojiang.me
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: lekeylinks
